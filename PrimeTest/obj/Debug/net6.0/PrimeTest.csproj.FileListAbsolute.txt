@@ -1,0 +1,14 @@
+D:\C# Programs\PrimeTest\PrimeTest\bin\Debug\net6.0\PrimeTest.exe
+D:\C# Programs\PrimeTest\PrimeTest\bin\Debug\net6.0\PrimeTest.deps.json
+D:\C# Programs\PrimeTest\PrimeTest\bin\Debug\net6.0\PrimeTest.runtimeconfig.json
+D:\C# Programs\PrimeTest\PrimeTest\bin\Debug\net6.0\PrimeTest.dll
+D:\C# Programs\PrimeTest\PrimeTest\bin\Debug\net6.0\PrimeTest.pdb
+D:\C# Programs\PrimeTest\PrimeTest\obj\Debug\net6.0\PrimeTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programs\PrimeTest\PrimeTest\obj\Debug\net6.0\PrimeTest.AssemblyInfoInputs.cache
+D:\C# Programs\PrimeTest\PrimeTest\obj\Debug\net6.0\PrimeTest.AssemblyInfo.cs
+D:\C# Programs\PrimeTest\PrimeTest\obj\Debug\net6.0\PrimeTest.csproj.CoreCompileInputs.cache
+D:\C# Programs\PrimeTest\PrimeTest\obj\Debug\net6.0\PrimeTest.dll
+D:\C# Programs\PrimeTest\PrimeTest\obj\Debug\net6.0\refint\PrimeTest.dll
+D:\C# Programs\PrimeTest\PrimeTest\obj\Debug\net6.0\PrimeTest.pdb
+D:\C# Programs\PrimeTest\PrimeTest\obj\Debug\net6.0\PrimeTest.genruntimeconfig.cache
+D:\C# Programs\PrimeTest\PrimeTest\obj\Debug\net6.0\ref\PrimeTest.dll
